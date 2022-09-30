@@ -134,9 +134,3 @@ modal4.addEventListener("click", function (e) {
 
 // Restarting game
 newGame.addEventListener("click", init);
-
-const newFeature = function () {
-  console.log("Welcome to the game!");
-};
-
-newFeature();
