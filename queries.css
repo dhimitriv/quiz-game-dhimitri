@@ -1,0 +1,261 @@
+@media (max-width: 48em) {
+  .check {
+    margin-top: 10rem;
+    font-size: 4rem;
+  }
+
+  .par:hover,
+  .par:active {
+    font-size: 2rem;
+  }
+  .modal0 {
+    margin: 0 5rem;
+  }
+
+  .modal0 p {
+    font-size: 2rem;
+    padding: 1rem 1rem;
+  }
+
+  .modal1 {
+    margin: 0 5rem;
+  }
+
+  .modal1 p {
+    font-size: 2rem;
+    padding: 1rem 1rem;
+  }
+
+  .modal3 {
+    margin: 0 5rem;
+  }
+
+  .modal3 p {
+    font-size: 2rem;
+    padding: 1rem 1rem;
+  }
+
+  .modal4 {
+    margin: 0 5rem;
+  }
+
+  .modal4 p {
+    font-size: 2rem;
+    padding: 1rem 1rem;
+  }
+}
+
+@media (max-width: 26.6em) {
+  body {
+    height: 100vh;
+  }
+  .check {
+    margin-top: 20rem;
+    font-size: 4.5rem;
+  }
+
+  .modal {
+    justify-content: center;
+    margin: auto 2rem;
+  }
+
+  .modal p {
+    padding: 1rem 0;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    /* margin: auto; */
+  }
+
+  .parStyle p {
+    font-size: 2rem;
+    /* justify-content: center; */
+    /* margin: auto; */
+  }
+
+  .parStyle {
+    /* justify-content: center; */
+    padding-top: 3rem;
+    align-items: center;
+  }
+
+  .modal2 p {
+    font-size: 4rem;
+  }
+
+  .newGame button {
+    font-size: 4rem;
+  }
+}
+
+@media (max-width: 24.8125em) {
+  body {
+    height: 100vh;
+  }
+  .check {
+    margin-top: 20rem;
+    font-size: 4.5rem;
+  }
+
+  .modal {
+    justify-content: center;
+    margin: auto 2rem;
+  }
+
+  .modal p {
+    padding: 1rem 0;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    /* margin: auto; */
+  }
+
+  .parStyle p {
+    font-size: 1.6rem;
+    /* justify-content: center; */
+    /* margin: auto; */
+  }
+
+  .parStyle {
+    /* justify-content: center; */
+    padding-top: 3rem;
+    align-items: center;
+  }
+
+  .modal2 p {
+    font-size: 4rem;
+  }
+
+  .newGame button {
+    font-size: 4rem;
+  }
+}
+
+@media (max-width: 23.5em) {
+  body {
+    height: 100vh;
+  }
+  .check {
+    margin-top: 20rem;
+    font-size: 4rem;
+  }
+
+  .modal {
+    justify-content: center;
+    margin: auto 2rem;
+  }
+
+  .modal p {
+    padding: 1rem 0;
+    display: flex;
+    justify-content: center;
+    font-size: 1.8rem;
+    /* margin: auto; */
+  }
+
+  .parStyle p {
+    font-size: 1.7rem;
+    /* justify-content: center; */
+    /* margin: auto; */
+  }
+
+  .parStyle {
+    /* justify-content: center; */
+    padding-top: 3rem;
+    align-items: center;
+  }
+
+  .modal2 p {
+    font-size: 4rem;
+  }
+
+  .newGame button {
+    font-size: 4rem;
+  }
+}
+
+@media (max-width: 23em) {
+  body {
+    height: 100vh;
+  }
+  .check {
+    margin-top: 20rem;
+    font-size: 3.5rem;
+  }
+
+  .modal {
+    justify-content: center;
+    margin: auto 2rem;
+  }
+
+  .modal p {
+    padding: 1rem 0;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+    /* margin: auto; */
+  }
+
+  .parStyle p {
+    font-size: 1.5rem;
+    /* justify-content: center; */
+    /* margin: auto; */
+  }
+
+  .parStyle {
+    /* justify-content: center; */
+    padding-top: 3rem;
+    align-items: center;
+  }
+
+  .modal2 p {
+    font-size: 4rem;
+  }
+
+  .newGame button {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 20em) {
+  body {
+    height: 100vh;
+  }
+  .check {
+    margin-top: 20rem;
+    font-size: 3.5rem;
+  }
+
+  .modal {
+    justify-content: center;
+    margin: auto 2rem;
+  }
+
+  .modal p {
+    padding: 1rem 0;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+    /* margin: auto; */
+  }
+
+  .parStyle p {
+    font-size: 1.4rem;
+    /* justify-content: center; */
+    /* margin: auto; */
+  }
+
+  .parStyle {
+    /* justify-content: center; */
+    padding-top: 3rem;
+    align-items: center;
+  }
+
+  .modal2 p {
+    font-size: 4rem;
+  }
+
+  .newGame button {
+    font-size: 3rem;
+  }
+}

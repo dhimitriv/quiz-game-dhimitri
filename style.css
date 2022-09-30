@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 60%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #f7f7f7;
+  font-size: 2rem;
+  background-color: rgb(45, 45, 139);
+  height: 50vh;
+  position: relative;
+  background-image: linear-gradient(
+      rgba(34, 34, 34, 0.6),
+      rgba(34, 34, 34, 0.6)
+    ),
+    url(photo7.jpg);
+  background-size: cover;
+}
+
+button {
+  margin: auto;
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+  border: none;
+  font-size: 5rem;
+  padding: 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  color: rgb(58, 58, 58);
+  background-color: #ffffff5e;
+}
+
+button:hover,
+button:active {
+  color: rgba(255, 255, 255, 0.63);
+  background-color: #ff730000;
+  transition: all 0.3s;
+}
+
+.hidden {
+  display: none;
+}
+
+.modal {
+  border-radius: 10px;
+  box-shadow: 0 12px 24px hwb(0 0% 100% / 0.753);
+  color: rgb(37, 37, 37);
+  background-color: #ffffff5e;
+  padding: 10px;
+  margin: 5rem 25rem;
+}
+
+.modal p {
+  display: flex;
+  justify-content: center;
+  font-size: 2.5rem;
+}
+
+.modal2 p {
+  display: flex;
+  justify-content: center;
+  font-size: 7rem;
+}
+
+.header {
+  position: absolute;
+}
+
+.parStyle p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.par:hover,
+.par:active {
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 2.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgba(255, 255, 255, 0.301);
+  /* background-color: rgba(156, 48, 34, 0.459); */
+  /* color: rgb(58, 58, 58); */
+  width: 4.3rem;
+  margin: auto;
+  border-radius: 50%;
+}
+
+.answer:hover,
+.answer:active {
+  cursor: pointer;
+  font-weight: 500;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.301);
+  width: 4.3rem;
+  margin: auto;
+}
+
+.modal4 .par:hover,
+.modal4 .par:active {
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 2.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgba(255, 255, 255, 0.301);
+  width: 15rem;
+  margin: auto;
+  border-radius: 8px;
+}
+
+.modal4 .answer:hover,
+.modal4 .answer:active {
+  cursor: pointer;
+  font-weight: 500;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.301);
+  width: 15rem;
+  margin: auto;
+}
+
+.check {
+  display: flex;
+  justify-content: center;
+  margin-top: 15rem;
+  color: rgb(58, 58, 58);
+  cursor: pointer;
+}
+
+.newGame p {
+  display: flex;
+  justify-content: center;
+  font-size: 5rem;
+  margin-top: 2rem;
+  margin: auto;
+  font-family: "Times New Roman", Times, sans-serif;
+}
