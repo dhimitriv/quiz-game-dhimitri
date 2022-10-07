@@ -17,8 +17,8 @@ body {
   height: 50vh;
   position: relative;
   background-image: linear-gradient(
-      rgba(34, 34, 34, 0.6),
-      rgba(34, 34, 34, 0.6)
+      rgba(34, 34, 34, 0.274),
+      rgba(34, 34, 34, 0.233)
     ),
     url(photo7.jpg);
   background-size: cover;
@@ -34,7 +34,7 @@ button {
   padding: 1rem;
   border-radius: 10px;
   cursor: pointer;
-  color: rgb(58, 58, 58);
+  color: rgba(27, 27, 27, 0.945);
   background-color: #ffffff5e;
 }
 
@@ -52,7 +52,7 @@ button:active {
 .modal {
   border-radius: 10px;
   box-shadow: 0 12px 24px hwb(0 0% 100% / 0.753);
-  color: rgb(37, 37, 37);
+  color: rgb(10, 10, 10);
   background-color: #ffffff5e;
   padding: 10px;
   margin: 5rem 25rem;
@@ -130,7 +130,7 @@ button:active {
   display: flex;
   justify-content: center;
   margin-top: 15rem;
-  color: rgb(58, 58, 58);
+  color: rgba(27, 27, 27, 0.945);
   cursor: pointer;
 }
 
